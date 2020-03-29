@@ -1,1 +1,1 @@
-# Project_wordpress-theme WWWWWWWW
+# Project_wordpress-theme 
